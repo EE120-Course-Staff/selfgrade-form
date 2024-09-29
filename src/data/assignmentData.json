@@ -125,7 +125,7 @@
                 "name": "3.4c",
                 "points": 10
             },
-                        {
+            {
                 "name": "3.5a and 3.5b",
                 "points": 8
             },
@@ -135,7 +135,66 @@
             }
         ]
     },
-        {
+    {
+        "name": "Homework 4",
+        "gradescopeLink": "https://www.gradescope.com/courses/823559/assignments/5039350",
+        "solutionsLink": "https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89761023",
+        "pageName": "homework-4",
+        "questions": [{
+                "name": "4.1(a), 4.1(b), 4.1(c)",
+                "points": 10
+            },
+            {
+                "name": "4.1(d), 4.1(e)",
+                "points": 10
+            },
+            {
+                "name": "4.2(a), 4.2(b)",
+                "points": 10
+            },
+            {
+                "name": "4.2(c), 4.2(d)",
+                "points": 10
+            },
+            {
+                "name": "4.3(a)",
+                "points": 6
+            },
+            {
+                "name": "4.3(b)",
+                "points": 6
+            },
+            {
+                "name": "4.4(a)(F1 - F5)",
+                "points": 7
+            },
+            {
+                "name": "4.4(a)(F6 - F10)",
+                "points": 7
+            },
+            {
+                "name": "4.4(b)(F1 - F5)",
+                "points": 7
+            },
+            {
+                "name": "4.4(b)(F6 - F10)",
+                "points": 7
+            },
+            {
+                "name": "4.5(a)",
+                "points": 5
+            },
+            {
+                "name": "4.5(b)",
+                "points": 10
+            },
+            {
+                "name": "4.5(c)",
+                "points": 5
+            }
+        ]
+    },
+    {
         "name": "Lab 1",
         "gradescopeLink": "https://www.gradescope.com/courses/823559/assignments/5066057",
         "solutionsLink": "https://bcourses.berkeley.edu/courses/1537177/files/folder/labs/Lab%201?preview=89798705",
