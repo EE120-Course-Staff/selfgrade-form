@@ -194,6 +194,49 @@
             }
         ]
     },
+        {
+        "name": "Homework 5",
+        "gradescopeLink": "https://www.gradescope.com/courses/823559/assignments/5088228",
+        "solutionsLink": "https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89833983",
+        "pageName": "homework-5",
+        "questions": [{
+                "name": "5.1(a) parts (i) and (ii)",
+                "points": 8
+            },
+            {
+                "name": "5.1(a) parts (iii) and (iv)",
+                "points": 12
+            },
+            {
+                "name": "5.1(b) parts (i) and (ii)",
+                "points": 8
+            },
+            {
+                "name": "5.1(b) parts (iii) and (iv)",
+                "points": 12
+            },
+            {
+                "name": "5.2(a)",
+                "points": 12
+            },
+            {
+                "name": "5.2(b) and (c)",
+                "points": 12
+            },
+            {
+                "name": "5.3(a) and (b)",
+                "points": 12
+            },
+            {
+                "name": "5.3(c)",
+                "points": 12
+            },
+            {
+                "name": "5.3(d) and (e)",
+                "points": 12
+            }
+        ]
+    },
     {
         "name": "Lab 1",
         "gradescopeLink": "https://www.gradescope.com/courses/823559/assignments/5066057",
