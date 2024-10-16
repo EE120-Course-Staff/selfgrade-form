@@ -194,7 +194,7 @@
             }
         ]
     },
-        {
+    {
         "name": "Homework 5",
         "gradescopeLink": "https://www.gradescope.com/courses/823559/assignments/5088228",
         "solutionsLink": "https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89833983",
@@ -234,6 +234,57 @@
             {
                 "name": "5.3(d) and (e)",
                 "points": 12
+            }
+        ]
+    },
+    {
+        "name": "Homework 6",
+        "gradescopeLink": "https://www.gradescope.com/courses/823559/assignments/5169608",
+        "solutionsLink": "https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=89973471",
+        "pageName": "homework-6",
+        "questions": [{
+                "name": "6.1(a), (b), (c)",
+                "points": 15
+            },
+            {
+                "name": "6.1(d), (e), (f)",
+                "points": 15
+            },
+            {
+                "name": "6.2(a)(i), (ii)",
+                "points": 10
+            },
+            {
+                "name": "6.2(a)(iii), (iv)",
+                "points": 10
+            },
+            {
+                "name": "6.2(b)",
+                "points": 10
+            },
+            {
+                "name": "6.3(a)",
+                "points": 10
+            },
+            {
+                "name": "6.3(b)",
+                "points": 10
+            },
+            {
+                "name": "6.3(c)",
+                "points": 10
+            },
+            {
+                "name": "6.4(a)",
+                "points": 10
+            },
+            {
+                "name": "6.4(b)",
+                "points": 0
+            },
+            {
+                "name": "6.4(c)",
+                "points": 0
             }
         ]
     },
