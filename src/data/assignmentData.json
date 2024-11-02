@@ -411,5 +411,28 @@
                 "points": 20
             }
         ]
+    },
+    {
+        "name": "Lab 3",
+        "gradescopeLink": "https://www.gradescope.com/courses/823559/assignments/5260599",
+        "solutionsLink": "https://bcourses.berkeley.edu/courses/1537177/files/folder/labs/Lab%203?preview=90144239",
+        "pageName": "lab-3",
+        "questions": [{
+                "name": "Q1b: 'Extrapolating from the data' / 'If Shazam took as long'",
+                "points": 10
+            },
+            {
+                "name": "Q2b: 'Extrapolating from the data'",
+                "points": 6
+            },
+            {
+                "name": "Q3b: 'Extrapolating from the data'/ 'Roughly how long'",
+                "points": 10
+            },
+            {
+                "name": "Q4b: 'Shift Values' / 'Shift Values'",
+                "points": 10
+            }
+        ]
     }
 ]
