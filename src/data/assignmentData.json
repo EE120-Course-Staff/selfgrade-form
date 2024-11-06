@@ -370,6 +370,41 @@
             }
         ]
     },
+        {
+        "name": "Homework 9",
+        "gradescopeLink": "https://www.gradescope.com/courses/823559/assignments/5279476",
+        "solutionsLink": "https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90178703",
+        "pageName": "homework-9",
+        "questions": [{
+                "name": "9.1(a)",
+                "points": 10
+            },
+            {
+                "name": "9.1(b), (i) and (ii)",
+                "points": 15
+            },
+            {
+                "name": "9.1(b), (iii) and (iv)",
+                "points": 15
+            },
+            {
+                "name": "9.2(a), (b), (c)",
+                "points": 20
+            },
+            {
+                "name": "9.2(d), (e)",
+                "points": 20
+            },
+            {
+                "name": "9.3(a)",
+                "points": 10
+            },
+            {
+                "name": "9.3(b)",
+                "points": 10
+            }
+        ]
+    },
     {
         "name": "Lab 1",
         "gradescopeLink": "https://www.gradescope.com/courses/823559/assignments/5066057",
