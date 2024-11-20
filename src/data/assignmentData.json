@@ -406,6 +406,45 @@
         ]
     },
     {
+        "name": "Homework 10",
+        "gradescopeLink": "https://www.gradescope.com/courses/823559/assignments/5354715",
+        "solutionsLink": "https://bcourses.berkeley.edu/courses/1537177/files/folder/homeworks?preview=90305079",
+        "pageName": "homework-10",
+        "questions": [{
+                "name": "10.1(a) and (b)",
+                "points": 12
+            },
+            {
+                "name": "10.1(c) and (d)",
+                "points": 12
+            },
+            {
+                "name": "10.2",
+                "points": 10
+            },
+            {
+                "name": "10.3(a) and (b)",
+                "points": 12
+            },
+            {
+                "name": "10.3(c) and (d)",
+                "points": 12
+            },
+            {
+                "name": "10.3(e) and (f)",
+                "points": 16
+            },
+            {
+                "name": "10.4(a)",
+                "points": 10
+            },
+            {
+                "name": "10.4(b) and (c)",
+                "points": 16
+            }
+        ]
+    },
+    {
         "name": "Lab 1",
         "gradescopeLink": "https://www.gradescope.com/courses/823559/assignments/5066057",
         "solutionsLink": "https://bcourses.berkeley.edu/courses/1537177/files/folder/labs/Lab%201?preview=89798705",
