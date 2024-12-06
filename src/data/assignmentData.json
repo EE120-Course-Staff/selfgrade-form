@@ -570,5 +570,20 @@
                 "points": 10
             }
         ]
+    },
+    {
+        "name": "Lab 5 Shazam",
+        "gradescopeLink": "",
+        "solutionsLink": "https://bcourses.berkeley.edu/courses/1537177/files/folder/labs/Lab%205?preview=90439075",
+        "pageName": "lab-5-shazam",
+        "questions": [{
+                "name": "Spectrogram Plot and Questions",
+                "points": 12
+            },
+            {
+                "name": "Zero-ing out in time domain",
+                "points": 3
+            }
+        ]
     }
 ]
