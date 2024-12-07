@@ -585,5 +585,20 @@
                 "points": 3
             }
         ]
+    },
+    {
+        "name": "Lab 5 MP3",
+        "gradescopeLink": "https://www.gradescope.com/courses/823559/assignments/5425026",
+        "solutionsLink": "https://bcourses.berkeley.edu/courses/1537177/files/folder/labs/Lab%205?preview=90446671",
+        "pageName": "lab-5-mp3",
+        "questions": [{
+                "name": "Q1e: Quantization",
+                "points": 10
+            },
+            {
+                "name": "Q2b: Putting it All Together",
+                "points": 5
+            }
+        ]
     }
 ]
